@@ -1,0 +1,11 @@
+# SolidWorks temporary and lock files
+~$*
+*.swp
+*.swo
+*.sws
+*.bak
+*.tmp
+
+# SolidWorks autosave / recovery
+AutoRecover/
+_Backup/
